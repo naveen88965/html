@@ -1,0 +1,94 @@
+			HTML AND CSS
+		
+
+A text header, denoted using the <h1>, <h2>, <h3>, <h4>, <h5>, <h6> tags.
+A paragraph, denoted using the <p> tag.
+A horizontal ruler, denoted using the <hr> tag.
+A link, denoted using the <a> (anchor) tag.
+A list, denoted using the <ul> (unordered list), <ol> (ordered list) and <li> (list element) tags.
+An image, denoted using the <img> tag
+A divider, denoted using the <div> tag
+A Line Break, denoted using the <br> tag
+
+Explain:
+<h1>This</h1>
+<h2> is</h2>
+<h3> a</h3>
+<h4> sample</h4>
+<h5> html</h5>
+<h6> page</h6>
+
+h1 is 2 em (emphasized)
+h2 is 1.5 em
+h3 is 1.3 em
+h4 is 1 em
+h5 is 0.8 em
+h6 is 0.7 em
+
+<p>This is my first paragraph</p>
+
+<hr>
+
+<a href="https://www.google.com">A link to Google</a>
+
+
+<ul>
+  <li>Apple</li>
+  <li>orange</li>
+</ul>
+
+<ol>
+  <li>Banana</li>
+  <li>watermelon</li>
+</ol>
+
+<img src="nature.jpg" alt="image" height="42" width="42">
+
+<div class="login">
+    <p>This is a example</p> 
+</div>
+ 
+ 
+<br> 
+ 
+ 
+<iframe src="youtube link"></iframe>
+-------------------------------------------------------------- 
+ css:
+  <style>
+	.login 
+	{
+		align-items: center; 
+		width: 100%;
+		height: 200px;
+		background-color: #1faadb;
+    }
+	h1
+	{
+	color: blue;
+	}
+	p    
+	{
+	color: red;
+	}
+  </style>
+ 
+ <head>
+  <link rel="stylesheet" href="Stylesheet name">
+</head>
+---------------------------------------------------------------
+css attribute
+
+font-family: verdana;
+font-size: 300%;
+border: 1px 
+margin: 50px;
+marginleft,marginright
+padding 
+color: red
+align-items: center; 
+width: 100%;
+height: 200px;
+background-color: #1faadb;
+
+---------------------------------------------------------------
